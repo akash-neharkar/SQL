@@ -6,4 +6,5 @@ https://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw
 https://youtu.be/On9eSN3F8w0?si=u1WbmE2LS-hiMOJK
 ## Theory:
 https://www.geeksforgeeks.org/sql-tutorial/
-
+## Most Asked Interview Questions
+https://youtu.be/AZzTHWF7tEc?si=5izuaCbVSFNHPXfN
